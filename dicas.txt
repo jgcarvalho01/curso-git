@@ -1,1 +1,3 @@
 Dicas de Git
+
+Lembre-se sempre de praticar os comandos git!
